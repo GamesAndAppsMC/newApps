@@ -1,2 +1,4 @@
 com.MakeBurgerCookingGame
+https://raw.githubusercontent.com/GamesAndAppsMC/newApps/master/new2.gif
+com.MakeHotDogCookingGame
 https://raw.githubusercontent.com/GamesAndAppsMC/newApps/master/new1.gif
